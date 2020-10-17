@@ -1,8 +1,8 @@
 # Data Modeling with Apache Cassandra
 ***
-This repository simulates the creation of an Apache Cassandra database for a music streaming startup whose data currently resides in a directory of CSV files and are looking for an easy way to query the data and to analyse it. 
+This repository simulates the creation of an Apache Cassandra database for a music streaming startup whose data currently resides in a directory of CSV files and are looking for an easy way to query the data and to analyze it. 
 
-This project will include the files to create and define tables for a Apache Cassandra database and will serve as an example on how to make a connection to a Cassandra instance in your local machine and create a cluster to model data creating tables in order to be able to run queries of the data and process it and analyse it. 
+This project will include the files to create and define tables for a Apache Cassandra database and will serve as an example on how to make a connection to a Cassandra instance in your local machine and create a cluster to model data creating tables in order to be able to run queries of the data and process it and analyze it. 
 
 # Data Files
 ***
